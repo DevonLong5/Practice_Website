@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    background-color: green;
+}
+
+#welcome_header {
+    text-align: center;
+}
+
+#picture_couple {
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+    border-style: solid;
+    border-color: black;
+}
+
+.description_bio {
+    text-align: justify;
+    
+}
