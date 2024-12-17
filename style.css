@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    background-color: green;
+    background-color: rgb(251, 255, 0);
 }
 
 #welcome_header {
@@ -16,6 +16,5 @@ h1 {
 }
 
 .description_bio {
-    text-align: justify;
-    
+    text-align: justify; 
 }
